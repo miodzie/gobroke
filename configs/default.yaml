@@ -1,0 +1,10 @@
+currency: USD
+watchlist:
+  - BTC
+  - ETH
+  - DOGE
+smtp:
+  host: smtp.gmail.com
+  port: 587
+  username: email@gmail.com
+  password: password

@@ -1,0 +1,2 @@
+GET localhost:8080/notification/settings HTTP/1.1
+Host: localhost:8080
